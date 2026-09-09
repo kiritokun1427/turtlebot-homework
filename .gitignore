@@ -1,0 +1,12 @@
+# 编译产物
+build/
+install/
+log/
+*.pyc
+__pycache__/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*~
